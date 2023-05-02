@@ -1,0 +1,18 @@
+TY  - JOUR
+AU  - Zhang, Zhen
+AU  - He, Rui
+AU  - Yang, Kuo
+PY  - 2022
+DA  - 2022/03/01
+TI  - A bioinspired path planning approach for mobile robots based on improved sparrow search algorithm
+JO  - Advances in Manufacturing
+SP  - 114
+EP  - 130
+VL  - 10
+IS  - 1
+AB  - In this paper, a bioinspired path planning approach for mobile robots is proposed. The approach is based on the sparrow search algorithm, which is an intelligent optimization algorithm inspired by the group wisdom, foraging, and anti-predation behaviors of sparrows. To obtain high-quality paths and fast convergence, an improved sparrow search algorithm is proposed with three new strategies. First, a linear path strategy is proposed, which can transform the polyline in the corner of the path into a smooth line, to enable the robot to reach the goal faster. Then, a new neighborhood search strategy is used to improve the fitness value of the global optimal individual, and a new position update function is used to speed up the convergence. Finally, a new multi-index comprehensive evaluation method is designed to evaluate these algorithms. Experimental results show that the proposed algorithm has a shorter path and faster convergence than other state-of-the-art studies.
+SN  - 2195-3597
+UR  - https://doi.org/10.1007/s40436-021-00366-x
+DO  - 10.1007/s40436-021-00366-x
+ID  - Zhang2022
+ER  - 
