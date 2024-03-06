@@ -27,7 +27,8 @@
         ```
 
 ## Demo
-[Gazebo Simulation]([https://github.com/tvpian/Maze_Solver/assets/41953267/1bcfc9d1-672c-44e0-98a8-99463541b1b6](https://drive.google.com/file/d/1lfcj1g-_fVTwkbCPnMDSycWN2oi9XWA0/view))
+[Gazebo Simulation](https://github.com/tvpian/ACO-RRT-Star/assets/41953267/0e1b2b2b-8662-4029-b523-8698b820a244)
+
 
 ## Help
 For any assistance with executing the programs or questions related to them, please reach out to us at abhijay@umd.edu or tvpian@umd.edu.
