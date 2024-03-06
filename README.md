@@ -26,5 +26,8 @@
         python3 RRT*.py
         ```
 
+## Demo
+[Gazebo Simulation]([https://github.com/tvpian/Maze_Solver/assets/41953267/1bcfc9d1-672c-44e0-98a8-99463541b1b6](https://drive.google.com/file/d/1lfcj1g-_fVTwkbCPnMDSycWN2oi9XWA0/view))
+
 ## Help
 For any assistance with executing the programs or questions related to them, please reach out to us at abhijay@umd.edu or tvpian@umd.edu.
