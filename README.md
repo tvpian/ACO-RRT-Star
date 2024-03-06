@@ -1,6 +1,7 @@
 # ENPM 661 - Project 5
 
-For more details, please refer to the project report: [PoseFusion: Multi-View Pose Integration for Comprehensive Action Recognition](./report.pdf).
+For more details, please refer to the project report: [Plan like Ants - Efficient path planning using RRT*
+and Ant Colony Optimization](./report.pdf).
 
 ## Team Members
 * Abhijay Singh (UID - 118592619)
