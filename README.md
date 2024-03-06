@@ -1,5 +1,7 @@
 # ENPM 661 - Project 5
 
+For more details, please refer to the project report: [PoseFusion: Multi-View Pose Integration for Comprehensive Action Recognition](./report.pdf).
+
 ## Team Members
 * Abhijay Singh (UID - 118592619)
 * Tharun Puthanveettil (UID - 119069516)
