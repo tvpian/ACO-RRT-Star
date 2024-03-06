@@ -1,4 +1,4 @@
-# ENPM 661 - Project 5
+# Ant Colony Optimization based RRT* Path Planning
 
 For more details, please refer to the project report: [Plan like Ants - Efficient path planning using RRT*
 and Ant Colony Optimization](./report.pdf).
