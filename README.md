@@ -3,10 +3,6 @@
 For more details, please refer to the project report: [Plan like Ants - Efficient path planning using RRT*
 and Ant Colony Optimization](./report.pdf).
 
-## Team Members
-* Abhijay Singh (UID - 118592619)
-* Tharun Puthanveettil (UID - 119069516)
-
 ## Dependencies
 
 * python3 interpreter
